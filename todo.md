@@ -50,7 +50,7 @@
         - base64      : boilingbit		2013-03-08
         - binary      : ###				-
         - csv         : metadao			-
-        - gob         : hardPass		2013-03-10
+        - gob         : ###    		    -   
         - hex         : ###				-
         - json        : xiocode			2013-03-10  
         - pem         : ###				-
@@ -116,7 +116,7 @@
     strconv           : chenzhekl		-
     strings           : astaxie			2013-03-08
     sync              : hardPass		2013-03-10
-        - atomic      : hardPass		2013-03-10
+        - atomic      : ###		        -
     syscall           : ###				-
     testing           : ###				-
         - iotest      : ###				-
